@@ -51,7 +51,7 @@ bignumber.js is a library that provides a way to perform calculations on large n
 In summary, every design decision made was driven by the commitment to offer a user-friendly, responsive, and visually pleasing interface while maintaining the simplicity and efficiency of the application.
 
   6. What „tasks“ did you have on your mind? How did you break down the different deliverables?
-As I embarked on this journey, my thoughts swirled around the multitude of tasks I needed to tackle. I saw the entire application development process as a grand story; I broke down the narrative into distinct tasks or "chapters", each leading to the next, ensuring the storyline was both cohesive and captivating.
+When I wanted to implement the functions of the application i.e. CRUD (Create, Read, Update, and Delete), my thoughts went around the CRUD tasks I needed to tackle. I saw the entire application development process as a grand story; I broke down the narrative into distinct tasks or "chapters", each leading to the next, ensuring the storyline was both cohesive and captivating.
 
 Task 1: **Data Harvesting**: The initial task was akin to harvesting fruit 🍎 🍉 🍍  from a tree 🌳 🌲 . I needed to obtain the data from the user, which was accomplished by deploying HTML form input elements. This step laid the foundation for all subsequent tasks.
 
