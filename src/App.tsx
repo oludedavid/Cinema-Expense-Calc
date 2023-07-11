@@ -235,8 +235,6 @@ const App: React.FC = () => {
       totalExpense,
     };
 
-    console.log(updatedExpenseItem);
-
     // Update the overall total expense
     // Subtract the previous total expense then add the new total expense
     setOverallTotalExpense(
